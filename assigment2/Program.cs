@@ -17,4 +17,4 @@ Console.WriteLine($"the word is :{word}");
 foreach (var item in count)
 {
     Console.WriteLine($"char:{item.Key}, count:{item.Value}");
-}43r
+}
